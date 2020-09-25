@@ -1,0 +1,4 @@
+autopep8==1.5.4
+pycodestyle==2.6.0
+toml==0.10.1
+ttable==0.6.4
