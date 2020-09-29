@@ -19,3 +19,9 @@ python3 main.py
 Available operators: `and`, `iff`, `impl`, `nand`, `nor`, `not`, `nxor`, `or`, `xnor`, `xor`
 
 Example Input: `A and B or not C xor D`
+
+## Sample Outputs
+
+![Output 1](./images/Output_1.png)
+
+![Output 2](./images/Output_2.png)
